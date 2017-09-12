@@ -1,0 +1,10 @@
+/home/mansour/Desktop/web/PieShop/bin/Debug/netcoreapp2.0/PieShop.deps.json
+/home/mansour/Desktop/web/PieShop/bin/Debug/netcoreapp2.0/PieShop.runtimeconfig.json
+/home/mansour/Desktop/web/PieShop/bin/Debug/netcoreapp2.0/PieShop.runtimeconfig.dev.json
+/home/mansour/Desktop/web/PieShop/bin/Debug/netcoreapp2.0/PieShop.dll
+/home/mansour/Desktop/web/PieShop/bin/Debug/netcoreapp2.0/PieShop.pdb
+/home/mansour/Desktop/web/PieShop/obj/Debug/netcoreapp2.0/PieShop.csproj.CoreCompileInputs.cache
+/home/mansour/Desktop/web/PieShop/obj/Debug/netcoreapp2.0/PieShop.AssemblyInfoInputs.cache
+/home/mansour/Desktop/web/PieShop/obj/Debug/netcoreapp2.0/PieShop.AssemblyInfo.cs
+/home/mansour/Desktop/web/PieShop/obj/Debug/netcoreapp2.0/PieShop.dll
+/home/mansour/Desktop/web/PieShop/obj/Debug/netcoreapp2.0/PieShop.pdb
